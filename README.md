@@ -1,10 +1,12 @@
-# LeetGamify
+# 🎮 LeetGamify
 
-Turn LeetCode submissions into a game.
+> Turn LeetCode submissions into a game.
 
 LeetGamify adds custom sounds and visual overlays whenever you submit a solution on LeetCode.
 
-## Features
+---
+
+## ✨ Features
 
 * 🎉 Mission Passed overlay for accepted solutions
 * 🔊 Custom success sound effects
@@ -13,7 +15,9 @@ LeetGamify adds custom sounds and visual overlays whenever you submit a solution
 * ⚡ Lightweight and fast
 * 🌙 Works with LeetCode Dark Mode
 
-## Installation (Brave / Chrome)
+---
+
+## 🚀 Installation (Brave / Chrome)
 
 ### 1. Open Extensions
 
@@ -37,7 +41,7 @@ Load unpacked
 
 Navigate to the **LeetGamify** folder and select it.
 
-> Do not select a ZIP file or an individual file. Select the extension folder itself.
+> ⚠️ Do not select a ZIP file or an individual file. Select the extension folder itself.
 
 ### 4. Verify Installation
 
@@ -50,7 +54,9 @@ Version 1.0
 
 on the Extensions page.
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 ```text
 LeetGamify/
@@ -67,41 +73,52 @@ LeetGamify/
     └── faahh.mp3
 ```
 
-## Compatibility
+---
+
+## 🖥️ Compatibility
 
 * Brave
+* Firefox
 * Google Chrome
 * Microsoft Edge
 * Vivaldi
 * Opera
 * Other Chromium-based browsers
 
-## Usage
+---
+
+## 🎯 Usage
 
 1. Open any LeetCode problem.
 2. Write your solution.
 3. Click **Submit**.
 4. Enjoy custom overlays and sounds based on the result.
 
-### Success
+### ✅ Success
 
 * Mission Passed overlay appears.
 * Success sound plays.
 
-### Failure
+### ❌ Failure
 
 * FAAAHH overlay appears.
 * Failure sound plays.
 
-## Contributing
+---
+
+## 🤝 Contributing
 
 Pull requests, bug reports, and feature suggestions are welcome.
 
-## License
+---
+
+## 📜 License
 
 This project is intended for educational and personal use.
 
-## Author
+---
 
-Created by Midnight.
+## 👨‍💻 Author
+
+Created by **Kr1shn3ndu**
 
