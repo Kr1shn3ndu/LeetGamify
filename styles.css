@@ -1,0 +1,37 @@
+.lc-overlay {
+    position: fixed;
+    left: 50%;
+    z-index: 999999;
+    height: auto;
+
+    animation: none;
+    pointer-events: none;
+}
+
+.lc-overlay.success {
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    max-width: 500px;
+    width: 40vw;
+}
+
+.lc-overlay.fail {
+    top: 15%;
+    transform: translateX(-50%);
+
+    max-width: 350px;
+    width: 30vw;
+}
+
+@keyframes pop {
+    from {
+        transform: translateX(-50%) scale(0.5);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(-50%) scale(1);
+        opacity: 1;
+    }
+}
